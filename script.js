@@ -1,5 +1,4 @@
-// let CurrentVal='';
-// document.querySelector('#display').value=CurrentVal;
+
 let CurrentVal = "";
 
 function append(char) {
